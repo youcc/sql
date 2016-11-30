@@ -1,5 +1,0 @@
-test if a file is modified.
-
-test alias
-
-checkout
